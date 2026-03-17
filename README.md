@@ -1,3 +1,15 @@
+---
+title: Loan Amortization
+emoji: 🏦
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+license: mit
+short_description: Interactive loan repayment strategy comparison
+---
+
 # 🏦 Loan Amortization — Interactive Strategy Comparison
 
 An interactive Voilà notebook comparing four home loan repayment strategies:
