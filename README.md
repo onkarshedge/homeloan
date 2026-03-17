@@ -13,9 +13,8 @@ Includes opportunity cost analysis — what if you invested the money in the mar
 
 ## Launch
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_USERNAME/loan-amortization/HEAD?urlpath=voila%2Frender%2Floan_amortization.ipynb)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/onkarshedge/loan-amortization/HEAD?urlpath=voila%2Frender%2Floan_amortization.ipynb)
 
-> Replace `YOUR_USERNAME` with your GitHub username after pushing.
 
 ## Run locally
 
