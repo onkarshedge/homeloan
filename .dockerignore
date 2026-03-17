@@ -1,0 +1,10 @@
+.git
+.venv
+.idea
+.ipynb_checkpoints
+backup
+binder
+homeloan.zip
+__pycache__
+*.pyc
+

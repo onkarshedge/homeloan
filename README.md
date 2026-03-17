@@ -13,13 +13,16 @@ Includes opportunity cost analysis — what if you invested the money in the mar
 
 ## Launch
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/zenodo/10.5281/zenodo.19067385/?urlpath=voila%2Frender%2Floan_amortization.ipynb)
+🚀 **[Open Live App on Hugging Face](https://huggingface.co/spaces/YOUR_HF_USERNAME/loan-amortization)**
+
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/onkarshedge/homeloan/main?urlpath=voila%2Frender%2Floan_amortization.ipynb)
+
+[//]: # ([![Binder]&#40;https://mybinder.org/badge_logo.svg&#41;]&#40;https://mybinder.org/v2/zenodo/10.5281/zenodo.19067385/?urlpath=%2Fdoc%2Ftree%2Floan_amortization.ipynb&#41;)
 
 
 ## Run locally
 
 ```bash
-pip install -e ".[dev]"
+pip install -e .
 voila loan_amortization.ipynb
 ```
-
