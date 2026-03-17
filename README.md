@@ -13,7 +13,7 @@ Includes opportunity cost analysis — what if you invested the money in the mar
 
 ## Launch
 
-🚀 **[Open Live App on Hugging Face](https://huggingface.co/spaces/YOUR_HF_USERNAME/loan-amortization)**
+🚀 **[Open Live App on Hugging Face](https://ohmyshedge-loan-amortization.hf.space)**
 
 [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/onkarshedge/homeloan/main?urlpath=voila%2Frender%2Floan_amortization.ipynb)
 
